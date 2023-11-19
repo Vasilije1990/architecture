@@ -10,7 +10,7 @@ pinned: false
 ---
 
 
-# RAG for Serbian architectur
+# RAG for Serbian architecture
 
 - set .env file
 
