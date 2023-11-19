@@ -9,6 +9,23 @@ app_file: app.py
 pinned: false
 ---
 
+
+# RAG for Serbian architectur
+
+- set .env file
+
+- run translate util to load to vectorstore
+- launch streamlit app
+- chat
+
+
+
+
+
+
+
+
+
 # Template Streamlit App for Haystack Search Pipelines
 
 This template [Streamlit](https://docs.streamlit.io/) app set up for simple [Haystack search applications](https://docs.haystack.deepset.ai/docs/semantic_search). The template is ready to do QA with **Retrievel Augmented Generation**, or **Ectractive QA**
