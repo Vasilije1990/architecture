@@ -5,3 +5,6 @@ streamlit==1.23.0
 markdown
 st-annotated-text
 datasets
+langchain
+deep_translator
+weaviate-client
